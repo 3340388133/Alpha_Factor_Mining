@@ -1,4 +1,4 @@
-# Alpha Factor Mining: 基线RL + 拥挤度模拟 Readme
+# Alpha Factor Mining: 基线RL + 拥挤度模拟 
 
 ## 项目概述
 - 本文档聚焦两个核心创新点：
