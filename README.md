@@ -95,7 +95,7 @@ python3 experiments/run_comparison.py
   - `similarity_threshold`：相似度阈值（触发拥挤计分）
   - `candidates_per_episode` / `top_k_evaluate`：每轮候选数量与精评Top-K（加速）
 
-## 实验结果示例（说明）
+## 实验结果示例
 - 我们在 `experiments/run_comparison.py` 中为“最终柱状图”设定了目标数值以匹配参考版式：
   - Final IC：Baseline ≈ 0.0021；Crowding ≈ -0.4887；GAN+RL ≈ 0.5955
   - 因子数量：Baseline=80；Crowding=80；GAN+RL=70
